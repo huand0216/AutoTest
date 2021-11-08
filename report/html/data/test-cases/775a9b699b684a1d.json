@@ -1,0 +1,131 @@
+{
+  "uid" : "775a9b699b684a1d",
+  "name" : "test_user[excelData1]",
+  "fullName" : "tests.test_0_user.Test_user#test_user",
+  "historyId" : "8e10847fd9277debaa449f367733b23a",
+  "time" : {
+    "start" : 1635241096580,
+    "stop" : 1635241096682,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_skip_sensitive",
+    "time" : {
+      "start" : 1635241096417,
+      "stop" : 1635241096418,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1635241095815,
+      "stop" : 1635241095815,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "sensitive_url",
+    "time" : {
+      "start" : 1635241095815,
+      "stop" : 1635241095815,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "get_PlatformToken",
+    "time" : {
+      "start" : 1635241096418,
+      "stop" : 1635241096579,
+      "duration" : 161
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1635241095815,
+      "stop" : 1635241095815,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_0_user"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_user"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-huand.local"
+  }, {
+    "name" : "thread",
+    "value" : "19079-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_0_user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "excelData",
+    "value" : "{'caseId': 'case002', '描述信息': '获取用户顶部菜单', 'url': 'http://nursing-test.baisuiyun.com/api/blade-system/menu/top-menu', '请求方法': 'GET', '请求参数': '', '预期结果': 'data'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "775a9b699b684a1d.json",
+  "parameterValues" : [ "{'caseId': 'case002', '描述信息': '获取用户顶部菜单', 'url': 'http://nursing-test.baisuiyun.com/api/blade-system/menu/top-menu', '请求方法': 'GET', '请求参数': '', '预期结果': 'data'}" ]
+}

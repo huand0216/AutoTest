@@ -1,0 +1,81 @@
+[ {
+  "uid" : "4583bdbe46d76fa9",
+  "name" : "test_addHR",
+  "time" : {
+    "start" : 1635246113355,
+    "stop" : 1635246113780,
+    "duration" : 425
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97ce2dcf6e83abc6",
+  "name" : "test_delHR",
+  "time" : {
+    "start" : 1635246114459,
+    "stop" : 1635246114602,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5fa069129a85fd28",
+  "name" : "test_getHR",
+  "time" : {
+    "start" : 1635246114075,
+    "stop" : 1635246114253,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f788a8e2429a1e4e",
+  "name" : "test_user[excelData2]",
+  "time" : {
+    "start" : 1635246111585,
+    "stop" : 1635246111831,
+    "duration" : 246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6832f70a332c385",
+  "name" : "test_user[excelData1]",
+  "time" : {
+    "start" : 1635246110931,
+    "stop" : 1635246111201,
+    "duration" : 270
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9137f4485d1422b1",
+  "name" : "test_user[excelData3]",
+  "time" : {
+    "start" : 1635246112156,
+    "stop" : 1635246112429,
+    "duration" : 273
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "745ca1de00d3a7bd",
+  "name" : "test_user[excelData4]",
+  "time" : {
+    "start" : 1635246112717,
+    "stop" : 1635246112907,
+    "duration" : 190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dc4b8d485df96cd",
+  "name" : "test_user[excelData0]",
+  "time" : {
+    "start" : 1635246110334,
+    "stop" : 1635246110538,
+    "duration" : 204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

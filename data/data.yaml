@@ -1,0 +1,41 @@
+case001:
+  account: A000007
+  password: e10adc3949ba59abbe56e057f20f883e
+case004:
+  code: flow
+case006:
+  $dtCountry: ''
+  $dtEdu: ''
+  $dtMari: ''
+  $dtPolitical: ''
+  $dtSex: "\u7537"
+  $pkDept: "\u51A0\u5C71\u793E\u533A"
+  $race: ''
+  address: ''
+  dateBegin: ''
+  dateDob: ''
+  dateEnd: ''
+  dtCountry: ''
+  dtEdu: ''
+  dtMari: ''
+  dtPolitical: ''
+  dtSex: 1
+  email: ''
+  empPhoto: http://yyy-mechc.oss-cn-hangzhou.aliyuncs.com/nursing/20211022/746aa8829403bf4241605be7152524ec.png
+  health: "\u5065\u5EB7"
+  idCard: '513436200010226365'
+  license: ''
+  name: "\u81EA\u52A8\u5316\u65B0\u589E\u4EBA\u5458"
+  nameJob: ''
+  nativePlace: ''
+  pkDept: '1435794545819258882'
+  pkPost: '1435794545987031042'
+  race: ''
+  residenceAddress: ''
+  teleno: '18862493446'
+case007:
+  current: 1
+  idCard: ''
+  size: 10
+case008:
+  ids: '1453243318628978690'
