@@ -1,0 +1,109 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook-Pro-huand.local",
+    "children" : [ {
+      "name" : "19956-MainThread",
+      "children" : [ {
+        "name" : "test_user[excelData3]",
+        "uid" : "9137f4485d1422b1",
+        "parentUid" : "a6aee39808235b1522587bb5a9449e69",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635246112156,
+          "stop" : 1635246112429,
+          "duration" : 273
+        },
+        "flaky" : false,
+        "parameters" : [ "{'caseId': 'case004', '描述信息': '获取系统字典', 'url': 'http://nursing-test.baisuiyun.com/api/blade-system/dict/dictionary', '请求方法': 'GET', '请求参数': 'case004', '预期结果': 'dictKey'}" ]
+      }, {
+        "name" : "test_user[excelData4]",
+        "uid" : "745ca1de00d3a7bd",
+        "parentUid" : "a6aee39808235b1522587bb5a9449e69",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635246112717,
+          "stop" : 1635246112907,
+          "duration" : 190
+        },
+        "flaky" : false,
+        "parameters" : [ "{'caseId': 'case005', '描述信息': '获取用户全部按钮权限', 'url': 'http://nursing-test.baisuiyun.com/api/blade-system/menu/buttons', '请求方法': 'GET', '请求参数': '', '预期结果': 'path'}" ]
+      }, {
+        "name" : "test_addHR",
+        "uid" : "4583bdbe46d76fa9",
+        "parentUid" : "a6aee39808235b1522587bb5a9449e69",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635246113355,
+          "stop" : 1635246113780,
+          "duration" : 425
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_user[excelData1]",
+        "uid" : "b6832f70a332c385",
+        "parentUid" : "a6aee39808235b1522587bb5a9449e69",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635246110931,
+          "stop" : 1635246111201,
+          "duration" : 270
+        },
+        "flaky" : false,
+        "parameters" : [ "{'caseId': 'case002', '描述信息': '获取用户顶部菜单', 'url': 'http://nursing-test.baisuiyun.com/api/blade-system/menu/top-menu', '请求方法': 'GET', '请求参数': '', '预期结果': 'data'}" ]
+      }, {
+        "name" : "test_user[excelData2]",
+        "uid" : "f788a8e2429a1e4e",
+        "parentUid" : "a6aee39808235b1522587bb5a9449e69",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635246111585,
+          "stop" : 1635246111831,
+          "duration" : 246
+        },
+        "flaky" : false,
+        "parameters" : [ "{'caseId': 'case003', '描述信息': '获取用户全部菜单权限', 'url': 'http://nursing-test.baisuiyun.com/api/blade-system/menu/routes', '请求方法': 'GET', '请求参数': '', '预期结果': 'menu'}" ]
+      }, {
+        "name" : "test_delHR",
+        "uid" : "97ce2dcf6e83abc6",
+        "parentUid" : "a6aee39808235b1522587bb5a9449e69",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635246114459,
+          "stop" : 1635246114602,
+          "duration" : 143
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_user[excelData0]",
+        "uid" : "8dc4b8d485df96cd",
+        "parentUid" : "a6aee39808235b1522587bb5a9449e69",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635246110334,
+          "stop" : 1635246110538,
+          "duration" : 204
+        },
+        "flaky" : false,
+        "parameters" : [ "{'caseId': 'case001', '描述信息': '获取租户信息', 'url': 'http://nursing-test.baisuiyun.com/api/blade-user/getTenantId', '请求方法': 'POST', '请求参数': 'case001', '预期结果': 'tenantId'}" ]
+      }, {
+        "name" : "test_getHR",
+        "uid" : "5fa069129a85fd28",
+        "parentUid" : "a6aee39808235b1522587bb5a9449e69",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635246114075,
+          "stop" : 1635246114253,
+          "duration" : 178
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a6aee39808235b1522587bb5a9449e69"
+    } ],
+    "uid" : "509a38bfcf3f71f3c6345a1eeadab0f0"
+  } ]
+}
